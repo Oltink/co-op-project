@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Python cache
+*.pyc
+
+# Model files
+*.cbm
+models/
+data/predicted_schedule.csv
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# React build artifacts
+build/
+dist/
+.cache/
+.npm/
+
+# Coverage and test reports
+coverage/
+*.coverage
+*.egg-info/
